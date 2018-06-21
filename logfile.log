@@ -1,0 +1,16 @@
+2018-06-13 20:52:25 INFO  Log1:34 - Test opening of Login Pages
+2018-06-13 20:52:25 INFO  Log1:34 - Exception in Test Case 1 java.lang.NullPointerException
+2018-06-13 20:52:25 INFO  Log1:34 - test SuccessFull login
+2018-06-13 20:52:25 INFO  Log1:34 - Exception in Test Case 2 java.lang.NullPointerException
+2018-06-13 20:58:30 INFO  Log1:34 - Test opening of Login Pages
+2018-06-13 21:00:44 INFO  Log1:34 - Test opening of Login Pages
+2018-06-13 21:00:45 INFO  Log1:34 - Exception in Test Case 1 java.lang.NullPointerException
+2018-06-13 21:00:45 INFO  Log1:34 - test SuccessFull login
+2018-06-13 21:00:46 INFO  Log1:34 - Exception in Test Case 2 java.lang.NullPointerException
+2018-06-13 21:03:28 INFO  Log1:34 - Test opening of Login Pages
+2018-06-13 21:03:28 INFO  Log1:34 - Exception in Test Case 1 java.lang.NullPointerException
+2018-06-13 21:03:28 INFO  Log1:34 - test SuccessFull login
+2018-06-13 21:03:28 INFO  Log1:34 - Exception in Test Case 2 java.lang.NullPointerException
+2018-06-13 21:04:14 INFO  Log1:34 - Test opening of Login Pages
+2018-06-13 21:04:14 INFO  Log1:34 - test SuccessFull login
+2018-06-13 21:04:14 INFO  Log1:34 - Exception in Test Case 2 java.lang.NullPointerException
